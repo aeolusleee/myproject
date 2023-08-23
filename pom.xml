@@ -3,7 +3,7 @@
   <groupId>MyProject</groupId>
   <artifactId>MyProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <name>myproject</name>
   <description>自己練習用
 </description>
