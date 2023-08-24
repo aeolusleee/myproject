@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /myproject
+
+spring:
+  application:
+    name: myproject
+  main:
+    allow-bean-definition-overriding: true
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
